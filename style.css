@@ -17,7 +17,6 @@
 
 body{
     background: var(--cor-base);
-  
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
